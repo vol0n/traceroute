@@ -2,6 +2,7 @@
 Minimalistic traceroute written in rust for learning purposes.
 
 ## Usage
+To run the programm you need the root priviliges.
 ```bash
 cargo run --bin tracert <ip> <max_ttl> <timeout>
 ```
